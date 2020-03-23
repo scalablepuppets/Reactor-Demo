@@ -1,0 +1,4 @@
+ #########################################
+        AVOID REACTOR FREEZE
+ #########################################
+Spring Boot :: ${spring-boot.formatted-version}
